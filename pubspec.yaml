@@ -9,7 +9,7 @@ environment:
 
 flutter:
   plugin:
-    androidPackage: com.lyokone.location
+    androidPackage: com.lyokone.locationdata
     pluginClass: LocationPlugin
 
 dependencies:
